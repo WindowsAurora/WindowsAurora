@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaperLuigi7789
 - 👀 I’m interested in Modifying Projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on The Wii Phone
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to Riivive The Wump Menu
 - 📫 to reach me Send A Message To Me
 
 <!---

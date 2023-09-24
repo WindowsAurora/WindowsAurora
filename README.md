@@ -1,4 +1,4 @@
-Looking For RiiWUump Menu? go to https://github.com/RiiWump
+Looking For RiiWump Menu? go to https://github.com/RiiWump
 - 👋 Hi, I’m @PaperLuigi7789
 - 👀 I’m interested in Modifying Projects
 - 🌱 I’m currently learning C

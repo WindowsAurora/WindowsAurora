@@ -1,4 +1,4 @@
-# Looking For RiiWump Menu? [Click Me](https://github.com/RiiWump)
+
 - 👋 Hi, I’m @WindowsAurora
 - 👀 I’m interested in Making Big Projects Then Abandoning Them.
 - 🌱 I’m currently learning Vue
